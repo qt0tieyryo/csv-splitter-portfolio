@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_sha256": "82d8bc8c480f99c7504c48777363dc6d52af57910c08a0ebaa94e10afb99f02d",
+  "encoding": "UTF-8",
+  "data_records": 12,
+  "columns": 3,
+  "rows_per_part": 5,
+  "parts": [
+    {
+      "file": "part-0001.csv",
+      "data_records": 5,
+      "sha256": "2976546d22ecd2037d451efd76438c8c1082abff922b3b646cd07594855becc3"
+    },
+    {
+      "file": "part-0002.csv",
+      "data_records": 5,
+      "sha256": "addabdbd16263f0630a0791000a96c3d60de1f464e16754cea8f24d4ade0329f"
+    },
+    {
+      "file": "part-0003.csv",
+      "data_records": 2,
+      "sha256": "31ddd1dcc1f0ab71959116c7b3a5ae2fc7aee5dce1dd4aec09ee0a114a9b469a"
+    }
+  ],
+  "preservation": "Decoded strings preserved; no type inference or formula escaping",
+  "spreadsheet_note": "Import identifier columns as Text. Do not open untrusted formulas."
+}
