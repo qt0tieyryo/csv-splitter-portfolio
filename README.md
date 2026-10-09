@@ -31,3 +31,22 @@ arbitrary file sizes or encodings.
 
 Original code, AI-assisted development. MIT license. Free browser audit:
 https://csv.gaodea.top/ . No customer data or credentials are included.
+
+## Tools and scoped services
+
+- **Use this splitter for free:** the code and synthetic examples in this repository
+  are MIT-licensed. A [free browser CSV audit](https://csv.gaodea.top/) runs locally.
+- **For repeat batch work:** the optional
+  [CSV Rescue Batch Kit](https://nianjun.gumroad.com/l/brupq) adds an offline browser
+  workbench, batch auditing/cleanup, CSV-to-JSON export, examples and documentation.
+  It is currently listed at US$9.99; check the product page for the final price and
+  requirements. The MIT splitter remains available here at no charge.
+- **Discuss a custom task:** see the [service scopes and original web demo](https://csv.gaodea.top/services.html),
+  or email [support@gaodea.top](mailto:support@gaodea.top) with a redacted example,
+  expected output, budget and deadline. Data preparation, small static websites and
+  narrowly scoped web fixes are considered after scope and payment checks. An
+  enquiry is not an accepted order or a delivery commitment.
+
+The workflow uses AI assistance and tested scripts. All public samples are
+synthetic; no customer results, testimonials or revenue claims are implied.
+Do not send confidential source files, credentials, identity or payment details.
