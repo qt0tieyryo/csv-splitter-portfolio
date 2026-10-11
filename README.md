@@ -47,6 +47,8 @@ https://csv.gaodea.top/ . No customer data or credentials are included.
   narrowly scoped web fixes are considered after scope and payment checks. An
   enquiry is not an accepted order or a delivery commitment.
 
+- **Caption videos and supplied-source briefs:** see the [original AI-assisted samples](https://csv.gaodea.top/ai-services.html), including a 29.82-second caption video using synthetic CSV identifiers and a project-fact brief. Indicative pilot quotes are US$20 for the defined caption-video scope and from US$30 for a supplied-source brief. Final scope, rights, acceptance checks and a supported funded order must be agreed first.
+
 The workflow uses AI assistance and tested scripts. All public samples are
 synthetic; no customer results, testimonials or revenue claims are implied.
 Do not send confidential source files, credentials, identity or payment details.
