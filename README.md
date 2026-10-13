@@ -41,9 +41,12 @@ https://csv.gaodea.top/ . No customer data or credentials are included.
   workbench, batch auditing/cleanup, CSV-to-JSON export, examples and documentation.
   It is currently listed at US$9.99; check the product page for the final price and
   requirements. The MIT splitter remains available here at no charge.
-- **Discuss a custom task:** see the [service scopes and original web demo](https://csv.gaodea.top/services.html),
-  or email [support@gaodea.top](mailto:support@gaodea.top) with a redacted example,
-  expected output, budget and deadline. Data preparation, small static websites and
+- **Discuss a custom task:** [open a GitHub enquiry](https://github.com/qt0tieyryo/csv-splitter-portfolio/issues/new?template=service-enquiry.yml)
+  with an anonymized outline, expected result, budget and preferred deadline.
+  GitHub issues are public; use synthetic examples and keep confidential files private.
+  Replies can stay in the issue. See the [service scopes and original web demo](https://csv.gaodea.top/services.html),
+  or email [support@gaodea.top](mailto:support@gaodea.top) for a private initial enquiry.
+  Data preparation, small static websites and
   narrowly scoped web fixes are considered after scope and payment checks. An
   enquiry is not an accepted order or a delivery commitment.
 

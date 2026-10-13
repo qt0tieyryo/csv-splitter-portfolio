@@ -1,0 +1,77 @@
+name: Discuss a scoped service
+description: Ask for a quote for data preparation, a small website task, caption editing or a supplied-source brief.
+title: "[Enquiry] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a short, anonymized outline here and continue the conversation in this issue.
+        **GitHub issues are public.** Use synthetic examples; keep customer files, credentials and payment details private.
+
+        [Service scopes and demos](https://csv.gaodea.top/services.html) · [Caption and brief samples](https://csv.gaodea.top/ai-services.html)
+
+        Work uses AI assistance and tested scripts, operated for an owner based in Mainland China.
+        This form requests a quote. Scope, authorization, acceptance checks and a supported funded payment arrangement must be confirmed before work starts.
+  - type: dropdown
+    id: service
+    attributes:
+      label: Service
+      options:
+        - CSV or data preparation
+        - Small static website
+        - Narrow website or web app fix
+        - Small web app prototype
+        - Caption editing with supplied or original materials
+        - Brief from specified sources
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: What needs to be done?
+      description: Describe the current situation and the change you need. For data tasks, include approximate rows, file size and format. For a website, share a public URL if useful.
+      placeholder: "Example: Split a UTF-8 CSV with 12,000 rows into parts of 5,000 records while keeping identifiers such as 0007 unchanged."
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected result and acceptance checks
+      description: State the output you want and how you will check it.
+      placeholder: "Example: Three CSV files with repeated headers, a record-count report and reconstructed cell strings matching the input."
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Proposed budget and currency
+      description: A budget helps determine a workable scope. If it is undecided, say so.
+      placeholder: "Example: US$25, or budget to be agreed."
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Preferred deadline and time zone
+      description: Share your target date; availability and a delivery date will be discussed in the reply.
+      placeholder: "Example: 20 October 2026, UTC; flexible by two days."
+    validations:
+      required: false
+  - type: dropdown
+    id: authorization
+    attributes:
+      label: Your role and permission to request changes
+      options:
+        - I own the files or website
+        - I am authorized by the owner
+        - Permission still needs to be confirmed
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Optional synthetic example or public reference
+      description: Use a small invented example or an appropriate public link to clarify the request.
+      render: text
+    validations:
+      required: false
